@@ -4,3 +4,6 @@ Guide:
 - Have python installed
 - Have pygame installed: `python -m pip install pygame`
 - Run the main file: `python main.py`
+
+How to play:
+Press `SPACE` to jump over the cacti
