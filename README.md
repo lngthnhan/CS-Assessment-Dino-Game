@@ -1,1 +1,1 @@
-A basic Dinosaur Game written in python using mainly pygame
+# A basic Dinosaur Game written in python using mainly pygame
