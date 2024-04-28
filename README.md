@@ -11,3 +11,6 @@ How to play:
 Press `SPACE` to jump over the cacti
 
 **DISCLAIMER:** Program written and tested on MacOS, Windows should work like a charm but might encounter errors
+
+Preview:
+<img width="912" alt="image" src="https://github.com/lngthnhan/CS-Assessment-Dino-Game/assets/74197000/c3f1d843-2e37-4851-a4d6-a32d5eecdc16">
