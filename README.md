@@ -9,3 +9,5 @@ If you have python3 and cannot run by using python command, replace python with 
 
 How to play:
 Press `SPACE` to jump over the cacti
+
+**DISCLAIMER:** Program written and tested on MacOS, Windows should work like a charm but might encounter errors
